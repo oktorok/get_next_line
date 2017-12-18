@@ -6,14 +6,14 @@
 /*   By: jagarcia <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/11/30 12:49:31 by jagarcia          #+#    #+#             */
-/*   Updated: 2017/12/03 20:37:15 by jagarcia         ###   ########.fr       */
+/*   Updated: 2017/12/18 12:28:23 by jagarcia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 # include "libft/libft.h"
-# define BUFF_SIZE 100000
+# define BUFF_SIZE 1032
 # define NEW(x) ft_strnew(x)
 # include <fcntl.h>
 
